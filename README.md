@@ -1,4 +1,5 @@
 Aplicación de Gestión de Productos con Flask
+
 Descripción
 Esta es una aplicación web desarrollada en Flask que facilita la gestión de productos a través de operaciones CRUD (Crear, Leer, Actualizar, Eliminar). Utiliza MongoDB como base de datos para almacenar la información de los productos.
 
