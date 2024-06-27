@@ -35,6 +35,7 @@ Crear un Cluster:
 En tu nuevo proyecto, haz clic en "Build a Cluster".
 Selecciona la opción "Shared Cluster" (la opción gratuita).
 Configura las opciones del cluster (ubicación, nombre, etc.) y haz clic en "Create Cluster".
+
 Paso 3: Configurar Acceso y Seguridad
 Crear un Usuario de la Base de Datos:
 
@@ -47,6 +48,7 @@ Configurar Acceso a la Red:
 Ve a la sección "Network Access".
 Haz clic en "Add IP Address".
 Agrega tu dirección IP actual o selecciona "Allow Access from Anywhere" si quieres permitir el acceso desde cualquier IP. Sin embargo, esta última opción es menos segura.
+
 Paso 4: Crear una Base de Datos
 Acceder a la Herramienta de Clúster:
 
@@ -56,6 +58,7 @@ Crear una Base de Datos y Colección:
 
 En la página de colecciones, haz clic en "Add My Own Data".
 Ingresa un nombre para tu base de datos y para tu colección inicial, luego haz clic en "Create".
+
 Paso 5: Conectar tu Aplicación a MongoDB Atlas
 
 Iniciar la Aplicación:
@@ -73,8 +76,11 @@ templates/: Carpeta que contiene las plantillas HTML utilizadas para renderizar 
 Funcionalidades Principales
 Crear Producto: Permite agregar nuevos productos especificando nombre, precio y cantidad.
 Listar Productos: Muestra todos los productos almacenados en la base de datos.
+
 Editar Producto: Permite modificar los detalles de un producto existente.
+
 Eliminar Producto: Elimina un producto de la base de datos.
+
 Pruebas
 Se recomienda realizar las siguientes pruebas para verificar el correcto funcionamiento de la aplicación:
 
