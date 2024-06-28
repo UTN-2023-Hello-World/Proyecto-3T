@@ -1,0 +1,15 @@
+Verificar la Conexión a MongoDB:
+
+Me aseguro de que la conexión a la base de datos se establezca correctamente sin errores.
+Probar CRUD de Productos:
+
+Crear: Añado productos utilizando el formulario de la aplicación.
+Leer: Me aseguro de que los productos añadidos se muestren correctamente en la lista.
+Actualizar: Edito los productos existentes y verifico los cambios.
+Eliminar: Elimino productos y verifico que desaparezcan de la lista.
+Verificar Errores en Consola:
+
+Reviso la consola para detectar errores al realizar las operaciones anteriores.
+Herramientas de Depuración
+Flask Debug Mode: Me aseguro de que debug=True en app.run() para habilitar el modo de depuración de Flask.
+MongoDB Compass: Utilizo MongoDB Compass para verificar los datos almacenados en mi base de datos.
