@@ -1,0 +1,43 @@
+# Proyecto de Gestión de Productos - Prueba de Integración
+
+## Introducción
+
+Este documento describe cómo realizar pruebas de integración en la aplicación de gestión de productos desarrollada con Flask y MongoDB.
+
+## Requisitos
+
+- Python 3.x
+- Flask
+- pytest
+- pymongo
+- certifi
+
+## Instalación
+
+1. Clona este repositorio:
+    ```bash
+    git clone https://github.com/tu-usuario/tu-repositorio.git
+    ```
+2. Navega al directorio del proyecto:
+    ```bash
+    cd tu-repositorio
+    ```
+3. Crea un entorno virtual y actívalo:
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
+    ```
+4. Instala las dependencias:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Configuración
+
+Configura tu archivo `database.py` con las credenciales correctas para conectarte a tu base de datos MongoDB.
+
+## Pruebas de Integración
+
+Para realizar pruebas de integración, usaremos `pytest`. Asegúrate de tener `pytest` instalado:
+```bash
+pip install pytest
