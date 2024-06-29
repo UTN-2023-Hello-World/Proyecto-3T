@@ -92,10 +92,4 @@ Se recomienda realizar las siguientes pruebas para verificar el correcto funcion
 - **Pruebas de Integración**: Probar las interacciones entre componentes para asegurar la integridad y la comunicación adecuada entre ellos.
 - **Pruebas Funcionales**: Simular escenarios de uso real para validar que la aplicación responde correctamente a las acciones del usuario.
 
-## Colaboración en Equipo desde GitHub
-- Utiliza ramas (branches) para desarrollar nuevas características y realizar correcciones sin afectar la rama principal (main).
-- Utiliza las Issues de GitHub para gestionar problemas, solicitudes de funciones y discusiones sobre cambios en el código.
-- Realiza revisiones de código (code reviews) para garantizar la calidad y consistencia del código antes de fusionarlo (merge) con la rama principal.
-
-Agregando estas secciones, tu README proporcionará una guía más completa y detallada sobre cómo instalar, utilizar y colaborar en el proyecto de gestión de productos con Flask. Asegúrate de ajustar los detalles según las especificaciones y necesidades específicas de tu aplicación y equipo de desarrollo.
 
